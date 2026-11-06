@@ -12,7 +12,7 @@ export default function Hero() {
       >
         <div className="availability">
           <span className="status-dot" />
-          CUSTOMER SERVICE PROFESSIONAL · NIGERIA
+          CUSTOMER SERVICE PROFESSIONAL · 
         </div>
 
         <h1>

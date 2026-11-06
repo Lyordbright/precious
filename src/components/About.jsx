@@ -6,7 +6,7 @@ const details = [
   { icon: GraduationCap, label: 'Degree', value: 'B.Sc Environmental Biology' },
   { icon: Award, label: 'University', value: 'University of Calabar' },
   { icon: CalendarDays, label: 'Graduated', value: '2024' },
-  { icon: MapPin, label: 'Based in', value: 'Nigeria' },
+//   { icon: MapPin, label: 'Based in', value: 'Nigeria' },
 ];
 
 export default function About() {
