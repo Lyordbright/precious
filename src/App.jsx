@@ -84,7 +84,6 @@ function App() {
               <a href="mailto:basseyprecious1914@gmail.com">
                 Email Precious <ArrowUpRight size={15} />
               </a>
-              <span>Based in Nigeria</span>
               <span>Open to opportunities</span>
             </div>
           </div>

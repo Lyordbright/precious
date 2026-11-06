@@ -117,10 +117,21 @@ export default function Contact() {
             <ArrowUpRight size={17} className="contact-method-arrow" />
           </a>
 
-          <div className="contact-location">
+          <a
+            href="https://wa.me/2347080775058?text=Hello%20Precious%2C%20I%20visited%20your%20portfolio%20and%20would%20like%20to%20connect."
+            target="_blank"
+            rel="noopener noreferrer"
+            className="whatsapp-button"
+          >
+            <MessageCircle size={19} />
+            Chat with me on WhatsApp
+          </a>
+
+
+          {/* <div className="contact-location">
             <MapPin size={17} />
             <span>Based in Nigeria</span>
-          </div>
+          </div> */}
 
           <div className="contact-note">
             <CheckCircle2 size={17} />
